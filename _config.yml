@@ -25,4 +25,3 @@ exclude:
   - Gemfile.lock
 plugins:
   - jekyll-seo-tag
-baseurl: https://jtaozh.github.io/boardgame
