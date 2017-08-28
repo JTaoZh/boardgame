@@ -5,7 +5,7 @@ date: 2017-08-25 00:00:00 +0800
 categories: 合作
 ---
 
-![封面]({{site.baseurl}}/assets/pic/rescuePolarBear/box-medium.jpg)
+![封面]({{site.baseurl}}/pic/rescuePolarBear/box-medium.jpg)
 # 游戏简介
 - 名称： 拯救北极熊
 - 出版年份： 2016
@@ -17,7 +17,7 @@ categories: 合作
 
 游戏背景设定在温室效应日趋严重的2045年，此时北极的冰层逐渐融化，北极熊的栖息之地逐渐缩小。为了拯救北极熊，玩家需要联合起来，将所有北极熊运送至安全的地方。在这个游戏中，玩家需要面对行动力受限，冰块融化以及北极熊繁殖等各种挑战。游戏设计者还设计了多个特殊的剧情地图，这些地图具有特殊的规则，也给玩家带来不同的体验。
 
-![游戏]({{site.baseurl}}/assets/pic/rescuePolarBear/game-medium.jpg)
+![游戏]({{site.baseurl}}/pic/rescuePolarBear/game-medium.jpg)
 
 # 游戏简评
 - 上手难度：低
@@ -38,4 +38,4 @@ categories: 合作
 
 - 其他特色：萌即正义的模型
     
-    ![熊]({{site.baseurl}}/assets/pic/rescuePolarBear/bears.jpg)
+    ![熊]({{site.baseurl}}/pic/rescuePolarBear/bears.jpg)
