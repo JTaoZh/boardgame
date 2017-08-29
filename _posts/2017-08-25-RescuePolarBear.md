@@ -3,6 +3,7 @@ layout: post
 title: 拯救北极熊
 date: 2017-08-25 00:00:00 +0800
 categories: 合作
+permalink: /boardgame/rescue_polar_bear
 ---
 
 ![封面]({{site.baseurl}}/pic/rescuePolarBear/box-medium.jpg)
