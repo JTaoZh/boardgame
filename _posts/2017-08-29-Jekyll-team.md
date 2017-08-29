@@ -29,4 +29,11 @@ permalink: /jekyll/jekyll_team
 # 提交更改
 
 参见[3.在Github Pages上发布博客]({{site.baseurl}}/jekyll/jekyll_post_github)将修改后的代码上传至个人项目地址。
-在个人项目页面中点击New pull request，
+
+在个人项目页面中点击New pull request进入Comparing changes页面
+
+点击Create pull request进入Open pull request页面
+
+添加相应的信息后点击Create pull request
+
+原项目管理者确认无冲突后点击Merge request合并代码，更新博客
