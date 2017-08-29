@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用Visual Studio Code编辑博客
+title: 在Github Pages上发布博客
 date: 2017-08-28 00:00:00 +0800
 categories: Jekyll
 permalink: /jekyll/jekyll_post_github
