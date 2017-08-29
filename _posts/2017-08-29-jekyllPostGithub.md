@@ -61,3 +61,9 @@ permalink: /jekyll/jekyll_post_github
 将项目同步至Github，打开Github中的项目主页，选择Settings，搜索 GitHub Pages，在Source的下拉框中选择master branch，点击Save。Github将运行Jekyll引擎生成博客，博客地址即为 
     
     https://yourname.github.io/yourblogname
+
+此后每次修改完成后只需在终端中进行以下三步：
+
+    git add .
+    git commit -m "自己写的注释"
+    git push
