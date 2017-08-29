@@ -10,4 +10,4 @@ permalink: /jekyll/
 
 [3.在Github Pages上发布博客]({{site.baseurl}}/jekyll/jekyll_post_github)
 
-[4.团队合作编辑博客]()
+[4.团队合作编辑博客]({{site.baseurl}}/jekyll/jekyll_team)
